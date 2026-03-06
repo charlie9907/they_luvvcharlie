@@ -105,16 +105,6 @@
 
 <div align="center">
 
-### ✦ shiny shelf ✦
-
-![trophies](https://github-profile-trophy-xi-ecru.vercel.app/?username=colourfulplanets&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
-
-</div>
-
----
-
-<div align="center">
-
 ### ✦ what i code in most ✦
 
 ![langs](https://github-readme-stats-ten-eosin-62.vercel.app/api/top-langs/?username=colourfulplanets&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=FF79C6&text_color=f8f8f2&cache_seconds=86400)
