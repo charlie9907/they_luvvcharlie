@@ -100,7 +100,7 @@
 
 <div align="center">
 
-![visitor count](https://komarev.com/ghpvc/?username=colourfulplanets&style=flat-square&color=FF79C6&label=visitors)
+![visitor count](https://komarev.com/ghpvc/?username=charlie9907&style=flat-square&color=FF79C6&label=visitors)
 
 *Charlie 🌸 — stupid scripter .-.*
 
