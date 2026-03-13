@@ -35,7 +35,6 @@
 ![CSS3](https://img.shields.io/badge/css3-C9B8FF?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-FFEAA7?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-A8D8FF?style=flat-square&logo=typescript&logoColor=black)
-![React](https://img.shields.io/badge/react-B8F0FF?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-1a1a2e?style=flat-square&logo=next.js&logoColor=white)
 
 **backend & servers**
